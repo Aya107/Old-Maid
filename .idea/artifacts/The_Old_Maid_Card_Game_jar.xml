@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="The Old Maid Card Game:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/The_Old_Maid_Card_Game_jar</output-path>
+    <root id="archive" name="The Old Maid Card Game.jar">
+      <element id="module-output" name="The Old Maid Card Game" />
+    </root>
+  </artifact>
+</component>
